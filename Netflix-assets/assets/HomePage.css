@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(14, 14, 14);
+    overflow-x: hidden;
+    position: relative;
+}
+
+.netflix-nav {
+    position: fixed;
+    background-color: black;
+}
+
+.netflix-logo {
+width: 160px;
+height: 80px;
+}
+
+.netflix-avatar {
+    width: 30px;
+    height: 30px;
+}
+
+.netflix-nav-m-right {
+    padding:  200px;
+}
+
+#button-genre {
+    background-color: black;
+    width: 100px;
+}
+
+.card {
+    border: none;
+    margin: 10px;
+}
+
+.card:hover {
+    transform: scale(1.2);
+}
+
+footer i {
+    padding: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.button-footer {
+width: 20%;
+border-radius: 10px;
+}
+
+.hr {
+    border: solid 1px red;
+}
